@@ -1,6 +1,6 @@
 # CDS
 C++ Data Structures Semester3
-EXPERIMENT 1
+# EXPERIMENT 1
 Hello World and Calculator program
 
 Aim: The aim of this experiment is to study and implement the basic structure of a C++ program, focusing on understanding the different data types available. This includes writing and executing simple programs such as printing "Hello World" and creating a basic calculator to perform arithmetic operations.
@@ -27,7 +27,7 @@ Compile and run the calculator program to check correctness.
 
 Conclusion: This experiment helped in understanding the basic syntax and structure of C++ programs. It provided hands-on experience with different data types and using input-output operations. Writing the "Hello World" and calculator programs reinforced knowledge of how to declare variables, use arithmetic operators, and perform simple computations, which forms the foundation of C++ programming.
 
-EXPERIMENT 2
+# EXPERIMENT 2
 To study and implement C++ Program Structure (Data Types)
 
 Aim: The objective of this experiment is to study the overall structure of a C++ program and understand various data types such as int, float, char, and double. It focuses on declaring variables, initializing them, and displaying their values to understand how data types work in C++.
@@ -50,7 +50,7 @@ Compile and run the program.
 
 Conclusion: Through this experiment, the user learned about various data types in C++ and how they are used to store different kinds of data. It also helped understand memory requirements and the importance of selecting the appropriate data type for variables in programs.
 
-EXPERIMENT 3
+# EXPERIMENT 3
 To study and implement Operators in C++
 
 Aim: The aim is to study and implement various operators in C++, including arithmetic, relational, and logical operators, to understand their usage and impact on data manipulation and decision making.
@@ -73,7 +73,7 @@ Compile and run the program to verify all outputs.
 
 Conclusion: This experiment provided a thorough understanding of how arithmetic, relational, and logical operators function in C++. It demonstrated the importance of these operators in performing calculations and making decisions based on conditions in a program.
 
-EXPERIMENT 4
+# EXPERIMENT 4
 To study and implement C++ Bitwise Operators
 
 Aim: The objective is to study and implement bitwise operators in C++ that operate on individual bits of integer data types to perform low-level data manipulation efficiently.
@@ -94,7 +94,7 @@ Compile and run the program to check for correctness.
 
 Conclusion: This experiment enhanced the understanding of bitwise operators and their applications in manipulating individual bits. It showed the significance of these operators in tasks like masking, toggling bits, and performing efficient computations at a low level.
 
-EXPERIMENT 5
+# EXPERIMENT 5
 To study and implement C++ decision making statements
 
 Aim: The aim is to study and implement various decision-making statements in C++ such as if, if-else, if-else-if, and switch-case. This helps control the flow of execution based on different conditions.
